@@ -1,3 +1,27 @@
 # Language Primer
 
-I started to learn how to speak Polish, but I found that there is not a straightforward place that contains the phonetics of the language. I thought it could be a good idea to create such website. If it turns out useful, adding primers for more languages could be interesting.
+**LanguagePrimer** is a minimalist, fast, and direct website designed to help users quickly access essential language resources. Whether you need to check pronunciation, grammar rules, or vocabulary, LanguagePrimer provides a clean and distraction-free experience.
+
+---
+
+## Features
+
+- **Minimalist Design**: No popups, ads, or unnecessary clutter. Just the information you need.
+- **Quick Access**: Easily navigate to pronunciation guides, grammar rules, and vocabulary lists.
+- **Responsive**: Works seamlessly on desktop, tablet, and mobile devices.
+- **Fast Loading**: Optimized for speed, so you get the information you need without delays.
+- **Search Functionality**: Quickly find the resource you’re looking for with a simple search bar.
+
+---
+
+## Technologies Used
+
+- **HTML**: For structuring the website.
+- **Tailwind CSS**: For styling and ensuring a clean, minimalist design.
+- **JavaScript**: For interactive elements like search functionality.
+---
+
+
+Run this command always before start working on the project 
+
+npm run watch:css
