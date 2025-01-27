@@ -20,3 +20,8 @@
 - **Tailwind CSS**: For styling and ensuring a clean, minimalist design.
 - **JavaScript**: For interactive elements like search functionality.
 ---
+
+
+Run this command always before start working on the project 
+
+npm run watch:css
